@@ -1,6 +1,5 @@
 const twoModule = () => {
 
-
 console.log('twoModule')
 }
 

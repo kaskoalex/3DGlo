@@ -1,7 +1,6 @@
 const oneModule = () => {
   
-
-  console.log(slider)
+  console.log('oneModule')
 }
 
 export default oneModule
