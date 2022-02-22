@@ -1,7 +1,7 @@
 const oneModule = () => {
-  const slider = 'oneModule'
+  
 
-  console.log('oneModule')
+  console.log(slider)
 }
 
 export default oneModule
